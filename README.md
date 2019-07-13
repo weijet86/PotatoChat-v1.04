@@ -1,5 +1,5 @@
 # PotatoChat-v1.04 (Web-browser version)
- This is a websocket client for web browser to work with a Node JS server which will be included in another file.
+ This is a websocket client written in Javascript for web browser to work with a Node JS server which will be included in another file.
 
 Instruction of how to use this websocket client
 1) Place PotatoChat_1.04.html and the whole javascripts folder in any folder in your local disc.
